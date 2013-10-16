@@ -1,10 +1,10 @@
 package com.sigmobile.ewslabavailability;
 
 import android.os.Bundle;
-import android.app.Activity;
+import android.support.v7.app.ActionBarActivity;
 import android.view.Menu;
 
-public class LabList extends Activity {
+public class LabList extends ActionBarActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -19,5 +19,5 @@ public class LabList extends Activity {
         getMenuInflater().inflate(R.menu.lab_list, menu);
         return true;
     }
-    
+
 }
