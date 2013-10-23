@@ -7,4 +7,5 @@ Team
 =============
 | Name       | NETID           | Role  |
 | :-------------: |:-------------:| :-----:|
+| Nelson Osacky      | osacky1  | Boss      |
 | Brian Doherty      | bedoher2 | Developer |
